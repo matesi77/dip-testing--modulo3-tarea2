@@ -1,0 +1,10 @@
+basicTest/RestAssuredBasic.java
+ basicTest.RestAssuredBasic
+basicTest/RestAssuredBody.java
+ basicTest.RestAssuredBody
+basicTest/RestAssuredExtract.java
+ basicTest.RestAssuredExtract
+basicTest/CRUDProjectTest.java
+ basicTest.CRUDProjectTest
+basicTest/CRUDItemTest.java
+ basicTest.CRUDItemTest
